@@ -1,0 +1,548 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -7.908596,
+            51.727415
+          ],
+          [
+            -7.425252,
+            52.174265
+          ],
+          [
+            -6.277309,
+            52.506485
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "1c9fca48a1132b1e0ec1e6567dbf65f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -122.210526,
+            37.947423
+          ],
+          [
+            -115.669471,
+            39.990128
+          ],
+          [
+            -106.434984,
+            41.214258
+          ],
+          [
+            -87.526272,
+            41.214258
+          ],
+          [
+            -86.20706,
+            40.54933
+          ],
+          [
+            -75.506781,
+            40.214364
+          ],
+          [
+            -74.040989,
+            40.660615
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "1f41f19677ac569e09f36ab1dc7d8f2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            32.445126,
+            29.96705
+          ],
+          [
+            43.419666,
+            12.686437
+          ],
+          [
+            45.799686,
+            11.781904
+          ],
+          [
+            73.037699,
+            19.042012
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "26cb524f7de1b239e32772528a07866f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -0.061976,
+            51.472842
+          ],
+          [
+            18.325907,
+            39.999243
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2dbda4564d76efb4afe32cfc8bf86a78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Yokohama",
+        "day": "Day 42"
+      },
+      "geometry": {
+        "coordinates": [
+          139.637168,
+          35.444855
+        ],
+        "type": "Point"
+      },
+      "id": "3ad8f76a74d7f2ba13b51ef552f0aafa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -179.68421,
+            38.196025
+          ],
+          [
+            -122.210526,
+            37.697978
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "64fcb1568638c27de49a57cbd25f73e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            18.351445,
+            39.96814
+          ],
+          [
+            32.532924,
+            30.063367
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "6ce841baef353a73b5028a2d154525d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.216891,
+            52.543245
+          ],
+          [
+            -3.498079,
+            52.579973
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "712b9e67856b5d5cc5bf7071a40bb8fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "elephant"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            78.515219,
+            26.215885
+          ],
+          [
+            82.052659,
+            26.290533
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "927d9b1fe1a51490790370cc39d225c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            114.204529,
+            22.575579
+          ],
+          [
+            117.070736,
+            22.575579
+          ],
+          [
+            120.892344,
+            25.770953
+          ],
+          [
+            123.440083,
+            29.715739
+          ],
+          [
+            122.803149,
+            31.225327
+          ],
+          [
+            120.892344,
+            30.542053
+          ],
+          [
+            126.624757,
+            30.815947
+          ],
+          [
+            132.038702,
+            29.300003
+          ],
+          [
+            138.726517,
+            32.173657
+          ],
+          [
+            139.841153,
+            35.35
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "bd151901ec49ad678fd224c8e2db0467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            82.094276,
+            26.327839
+          ],
+          [
+            88.336818,
+            22.539843
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "c27898fd8abec5db797254bd0de72503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            72.905476,
+            19.166953
+          ],
+          [
+            78.458857,
+            26.117063
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "c28207ef9b1c21119e1c06330fc94738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            88.434813,
+            22.486026
+          ],
+          [
+            93.87836,
+            14.837576
+          ],
+          [
+            96.770244,
+            10.189018
+          ],
+          [
+            99.747184,
+            4.200447
+          ],
+          [
+            102.298846,
+            1.652323
+          ],
+          [
+            104.595343,
+            -0.048555
+          ],
+          [
+            107.317116,
+            0.716924
+          ],
+          [
+            110.294056,
+            4.709236
+          ],
+          [
+            112.335386,
+            12.772741
+          ],
+          [
+            112.590552,
+            18.018834
+          ],
+          [
+            114.036494,
+            22.407415
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "c47fb37ee942c8ba2dd7d9cbb73a9dac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            139.894736,
+            35.415322
+          ],
+          [
+            179.68421,
+            36.183691
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "cfc7664ba53afa9ffd043e273e5f930d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "rail"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -3.485296,
+            52.58601
+          ],
+          [
+            -0.146018,
+            51.509343
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "e7283976a7de54310bb6ca0067bcc651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "steamer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -73.809549,
+            40.847027
+          ],
+          [
+            -69.492864,
+            40.190734
+          ],
+          [
+            -55.031969,
+            42.61859
+          ],
+          [
+            -21.361827,
+            46.462394
+          ],
+          [
+            -9.490943,
+            49.495259
+          ],
+          [
+            -7.980103,
+            51.687085
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "fb8b85613af7e07c17f53b246efbc73e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q134514",
+        "place_name": "Suiz, As Suways, Egypt",
+        "day": "Day 7"
+      },
+      "geometry": {
+        "coordinates": [
+          32.53333,
+          29.96667
+        ],
+        "type": "Point"
+      },
+      "id": "place.11158868192654030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1156",
+        "place_name": "Mumbai, Maharashtra, India",
+        "day": "Day 20"
+      },
+      "geometry": {
+        "coordinates": [
+          72.83333,
+          18.96667
+        ],
+        "type": "Point"
+      },
+      "id": "place.16547339019670990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "hk",
+        "wikidata": "Q8646",
+        "place_name": "Hong Kong",
+        "day": "Day 36"
+      },
+      "geometry": {
+        "coordinates": [
+          114.135442,
+          22.346578
+        ],
+        "type": "Point"
+      },
+      "id": "place.364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q60",
+        "place_name": "New York, New York, United States",
+        "day": "Day 71"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9808,
+          40.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.3677094975964500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "London, Greater London, England, United Kingdom",
+        "day": "Day 1 - Day 80"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ],
+        "type": "Point"
+      },
+      "id": "place.8500383470913397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1348",
+        "place_name": "Kolkata, West Bengal, India",
+        "day": "Day 23"
+      },
+      "geometry": {
+        "coordinates": [
+          88.33778,
+          22.54111
+        ],
+        "type": "Point"
+      },
+      "id": "place.9463250993647180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q62",
+        "place_name": "San Francisco, California, United States",
+        "day": "Day 64"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.463,
+          37.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.9464292564361910"
+    }
+  ],
+  "type": "FeatureCollection"
+}
